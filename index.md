@@ -1,6 +1,6 @@
 ---
 layout: default
-title: todos, começando pelos mais recentes
+title: pagina de inicio
 ---
 
 <div id="index-posts">
