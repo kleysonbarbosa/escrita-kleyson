@@ -21,5 +21,5 @@ Para a versão completa da licença, visite o [site da Creative Commons](https:/
 ## Para o resto do site
 
 Sem ser os texto, o resto pode mandar ver, forkar, download, o que seja! Tá
-tudo no [repositório de código](https://github.com/olivia-olivia/olivia-olivia.github.io)
+tudo no [repositório de código](https://github.com/kleysonbarbosa/escrita-kleyson)
 no GitHub
